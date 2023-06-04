@@ -9,7 +9,7 @@ export const ContactMenu = styled.ul`
 
 export const DeleteBtn = styled.button`
   min-width: 90px;
-  padding: 7px 7px;
+  padding: 7px 10px;
   color: #151216d6;
   background-color: #ace717;
   border-radius: 20px;
